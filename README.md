@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Axcle</h1>
-<h3 align="center">An aspiring and passionate back-end developer</h3>
 
 - 📫 How to reach me **axcle.viray21@gmail.com**
 
