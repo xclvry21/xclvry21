@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Axcle</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xclvry21&label=Profile%20views&color=0e75b6&style=flat" alt="xclvry21" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/axcle-viray-08463b241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axcle-viray-08463b241" height="30" width="40" /></a>
